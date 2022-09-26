@@ -1,0 +1,100 @@
+div.first-container{
+    background-image: url("images/dosa.jpg");
+    background-size: cover;
+   
+    
+    height: 900px;
+}
+body{
+margin: 0px;
+}
+.navigation-bar{
+    background-color: rgb(42, 39, 39);
+    height: 60px;
+    
+    
+}
+.navigation-bar a{
+    text-align: center;
+    margin-right: 50px;
+    font-size: 30px;
+    float: right;
+    color: white;
+    padding-top: 20px;
+    
+
+}
+.navigation-bar a:hover{
+    color: yellow;
+}
+.logo-img{
+    height: 100px;
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+   
+}
+.center-box{
+    margin: 150px;
+  background-color: #efbaba;
+  border: 1px solid black;
+  opacity: 0.8;
+  height: 400px;
+}
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-top: 30px;
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
+}
+.button:hover{
+    background-color: green;
+}
+.center-box p{
+margin-left: 20px;
+font-size: 25px;
+}
+.center-box h1{
+    margin-left: 20px;
+    font-size: 60px;
+}
+.em-tag{
+    color: red;
+    font-weight: 600;
+    
+}
+.image{
+    height:300px;
+    width: 300px;
+}
+table{
+    margin-left: 240px;
+}
+.second-second-container{
+    background-color: rgb(240, 240, 183);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    
+    
+}
+.second-container{
+    background-image: url("images/rest.jpg");
+    background-size: cover;
+    height: 1500px;
+}
+.dosa-house-menu{
+    font-family: 'Aboreto', cursive;
+    margin-left: 240px;
+    font-size: 60px;
+}
+.dosa-names{
+    font-family: 'Aboreto', cursive;
+    font-size: 20px;
+    font-weight: 700;
+}
